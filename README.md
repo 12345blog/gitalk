@@ -1,1 +1,3 @@
-# gitalk
+# 请忽略此项目
+
+此项目的 [Issues](https://github.com/12345blog/gitalk/issues) 用来为 [https://12345.blog](https://12345.blog) 的 gitalk 的插件提供支持，仅此而已……
